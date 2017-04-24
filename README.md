@@ -13,7 +13,7 @@ Author :
 Example : 
 ---
 ```
-python tplayer.py blucelee.jpg
+python tplayer.py BruceLee.jpg
 ```
 ```
 oottzzzzzkotkkkkkeeewsVVwVlsssewswwwVeVsseJweVJJJkeeeeJtootokk@CCCUxxzxzoozxJJJJJJJVVwwVVVwwwwwJJJJJJJJJeewwwwwwwweeeeeeeeeeJkJJttttttttttttttttttttttttt

@@ -64,6 +64,8 @@ def main():
     if len(sys.argv) != 2:
         print "Usage : "
         print "        python tplayer.py [VIDEO_PATH|IMAGE_PATH]"
+        print "Author : "
+        print "        WangYihang <wangyihanger@gmail.com>"
         exit(1)
     file_path = sys.argv[1]
     is_image = True
